@@ -1,7 +1,11 @@
 # Binary documents
 *.docx
-*.pptx
+# Uncomment below to ignore all pptx:
+# *.pptx
 *.pdf
+
+# But allow the main presentation
+!Machine Learning in Bioinformatics.pptx
 
 # Python
 __pycache__/
