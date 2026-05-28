@@ -101,7 +101,7 @@ No advanced ML background required — each script is documented step-by-step.
 
 ## Author
 
-**ShivMC**
+**Shivani Pawar**
 
 --- 
 
