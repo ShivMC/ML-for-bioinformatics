@@ -1,0 +1,22 @@
+# Binary documents
+*.docx
+*.pptx
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HTML exports (regenerate from source)
+*.html
