@@ -8,14 +8,14 @@ A collection of machine learning projects and tools for biological data analysis
 
 Machine learning (ML) is a branch of artificial intelligence where computers learn patterns from data instead of following explicit rules. For biologists, think of it like this:
 
-> **Traditional approach:** You write a rule — "if sequence has motif X, then it's a promoter."
+> **Traditional approach:** You write a rule :"if sequence has motif X, then it's a promoter."
 > **ML approach:** You show the computer thousands of known promoters and non-promoters, and it *learns* the distinguishing patterns on its own.
 
 ML is especially powerful in bioinformatics because biological data is complex, high-dimensional, and often contains patterns too subtle for manual rule-writing. Common applications include:
 
-- **Classification** — Is this sequence coding or non-coding? Is this mutation pathogenic?
-- **Regression** — How strongly will this drug bind to a target protein?
-- **Clustering** — Which viruses are genetically similar? Which patients group together?
+- **Classification** : Is this sequence coding or non-coding? Is this mutation pathogenic?
+- **Regression** : How strongly will this drug bind to a target protein?
+- **Clustering** : Which viruses are genetically similar? Which patients group together?
 - **Dimensionality reduction** — Visualizing high-dimensional gene expression data in 2D/3D.
 
 ---
@@ -41,18 +41,18 @@ ML is especially powerful in bioinformatics because biological data is complex, 
 
 | Project | Description |
 |---------|-------------|
-| **Project 1** — DNA K-mer Classifier | Classifies DNA sequences using k-mer frequency features with Random Forest / SVM |
-| **Project 2** — Protein CNN Classifier | 1D Convolutional Neural Network for protein family classification from sequence |
-| **Project 3** — Mutation ESM-2 Analysis | Uses ESM-2 embeddings to predict mutation effects on protein function |
-| **Project 4** — Viral Host Predictor | Predicts viral host species from genomic signatures using ML |
+| **Project 1** : DNA K-mer Classifier | Classifies DNA sequences using k-mer frequency features with Random Forest / SVM |
+| **Project 2** : Protein CNN Classifier | 1D Convolutional Neural Network for protein family classification from sequence |
+| **Project 3** : Mutation ESM-2 Analysis | Uses ESM-2 embeddings to predict mutation effects on protein function |
+| **Project 4** : Viral Host Predictor | Predicts viral host species from genomic signatures using ML |
 
 Each project includes a standalone script and detailed explanation documents.
 
 ### Documentation
 
-- `COVID_ADVANCED_DOCS.md` — Comprehensive documentation for the COVID-19 ML pipeline
-- `COVID_ADVANCED_API.md` — API reference for COVID analysis tools
-- `3_ML_Projects/README.md` — Per-project breakdown and usage instructions
+- `COVID_ADVANCED_DOCS.md` :Comprehensive documentation for the COVID-19 ML pipeline
+- `COVID_ADVANCED_API.md` :API reference for COVID analysis tools
+- `3_ML_Projects/README.md` : Per-project breakdown and usage instructions
 
 ### Presentation
 
